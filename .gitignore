@@ -1,0 +1,11 @@
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+/Q2Win95Prep.exe
+/Q2Win95PrepTests.exe
+/wincd.dll
+/SELFTEST.TXT
+Copy-To-Windows-95*/
+.vs/

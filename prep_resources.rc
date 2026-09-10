@@ -1,0 +1,3 @@
+#include "resource_ids.h"
+
+IDR_WINCD_DLL RCDATA "wincd.dll"
